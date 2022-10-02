@@ -1,0 +1,16 @@
+{
+	"installed":[
+		"Package Manager",
+		"Settings",
+		"File Explorer",
+		"Command Prompt",
+		"Task Manager",
+		"Text Editor",
+		"Image Viewer",
+		"Calculator",
+		"Test"
+	],
+	"available":[
+		"Example Program"
+	]
+}

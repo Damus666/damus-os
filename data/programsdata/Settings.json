@@ -1,0 +1,11 @@
+{
+	"background_path":"data/images/bg/default.jpg",
+	"resolution":"1440 x 900",
+	"widgets":{
+		"Date-Time Widget":"Enabled",
+		"Info Widget":"Enabled"
+	},
+	"user_pfp_path":"data/images/user/default.png",
+	"user_name":"User",
+	"user_password":"1234"
+}

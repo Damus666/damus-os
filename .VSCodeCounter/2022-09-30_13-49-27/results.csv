@@ -1,0 +1,33 @@
+"filename", "language", "Python", "Batch", "JSON", "comment", "blank", "total"
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\Calculator.json", "JSON", 0, 0, 1, 0, 0, 1
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\Command Prompt.json", "JSON", 0, 0, 1, 0, 0, 1
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\File Explorer.json", "JSON", 0, 0, 18, 0, 0, 18
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\Image Viewer.json", "JSON", 0, 0, 1, 0, 0, 1
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\Package Manager.json", "JSON", 0, 0, 13, 0, 0, 13
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\Settings.json", "JSON", 0, 0, 4, 0, 0, 4
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\Task Manager.json", "JSON", 0, 0, 1, 0, 0, 1
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\Text Editor.json", "JSON", 0, 0, 1, 0, 0, 1
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\data\pygame_gui_theme.json", "JSON", 0, 0, 2, 0, 1, 3
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\files\file.py", "Python", 24, 0, 0, 0, 6, 30
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\files\file_type.py", "Python", 5, 0, 0, 0, 0, 5
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\files\folder.py", "Python", 68, 0, 0, 0, 10, 78
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\files\image.py", "Python", 40, 0, 0, 0, 8, 48
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\files\text_file.py", "Python", 20, 0, 0, 0, 5, 25
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\json_helper.py", "Python", 552, 0, 0, 246, 112, 910
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\main.py", "Python", 7, 0, 0, 0, 2, 9
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\program_manager.py", "Python", 126, 0, 0, 0, 22, 148
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\calculator.py", "Python", 60, 0, 0, 0, 11, 71
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\cmd.py", "Python", 113, 0, 0, 0, 17, 130
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\file_explorer.py", "Python", 164, 0, 0, 1, 23, 188
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\image_viewer.py", "Python", 31, 0, 0, 0, 9, 40
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\package_manager.py", "Python", 87, 0, 0, 0, 15, 102
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\program.py", "Python", 35, 0, 0, 0, 12, 47
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\system_settings.py", "Python", 46, 0, 0, 0, 9, 55
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\task_manager.py", "Python", 34, 0, 0, 0, 10, 44
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\programs\text_editor.py", "Python", 63, 0, 0, 0, 14, 77
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\run.bat", "Batch", 0, 1, 0, 0, 0, 1
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\settings.py", "Python", 44, 0, 0, 4, 11, 59
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\system.py", "Python", 73, 0, 0, 0, 15, 88
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\widgets.py", "Python", 42, 0, 0, 0, 8, 50
+"c:\Users\zn_admin.DESKTOP-4U4A5J3\Desktop\desktop\window.py", "Python", 138, 0, 0, 0, 30, 168
+"Total", "-", 1772, 1, 42, 251, 350, 2416
